@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6V7iLNdNMXx_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">SMART_Learning_Journal</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="SMART_Learning_Journal_ORG">
+    <organization identifier="SMART_Learning_Journal_ORG">
+      <title>SMART_Learning_Journal</title>
+      <item identifier="_344_Post_Training_Journal_SCO" isvisible="true" identifierref="__6V7iLNdNMXx_course_id_RES">
+        <title>SMART_Learning_Journal</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6V7iLNdNMXx_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Xekfi9VRaA_R9BF2FF.png" />
+      <file href="mobile/6ewPMuDYvLM.png" />
+      <file href="mobile/5qxXd4WrOmn.png" />
+      <file href="mobile/5ttYhcfxSEF.png" />
+      <file href="mobile/5kRp8Ex7lVB.png" />
+      <file href="mobile/5wXToPCq2t1.png" />
+      <file href="mobile/6Y7bRMNKQsl.png" />
+      <file href="mobile/6O6r5deScdH.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5uWx2YZt0HS_P_0_0_213_714.png" />
+      <file href="mobile/5uWx2YZt0HS_P_0_714_488_92.png" />
+      <file href="mobile/5uWx2YZt0HS_P_842_0_217_807.png" />
+      <file href="mobile/5uWx2YZt0HS_P_627_0_215_715.png" />
+      <file href="mobile/5uWx2YZt0HS_P_416_0_221_715.png" />
+      <file href="mobile/5uWx2YZt0HS_P_220_0_206_715.png" />
+      <file href="mobile/6mjn7evgJvU.png" />
+      <file href="mobile/6mjn7evgJvU_RC3C7CB.png" />
+      <file href="mobile/5qxXd4WrOmn_X.png" />
+      <file href="mobile/6cSP71Hg4Qo.png" />
+      <file href="mobile/5hZKt2dUOOC.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5dtbiszsvZe.png" />
+      <file href="mobile/Shape5wB2ZUAYHPL.png" />
+      <file href="mobile/Shape5Y8FQOlkuSa.png" />
+      <file href="mobile/Shape6bNxKV0egAN.png" />
+      <file href="mobile/Shape6hFEkQAqivX.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bC7ZUvbYKF.js" />
+      <file href="html5/data/js/6ISZkNh5rYo.js" />
+      <file href="html5/data/js/6jtuXtqqQZ0.js" />
+      <file href="html5/data/js/6pFbLRZkODf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
